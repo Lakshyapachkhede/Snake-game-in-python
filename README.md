@@ -1,6 +1,6 @@
-<h>Snake-game-in-python</h>
+Snake-game-in-python
 Welcome to the classic Snake Game developed in Python using the Pygame module! This simple yet addictive game allows players to control a snake, guiding it to eat food and grow longer while avoiding collision with itself or the walls.
-<h3>Features:</h3>
+Features:
 Classic Gameplay: Experience the nostalgic gameplay of the classic Snake game.
 Responsive Controls: Use arrow keys to control the snake's direction.
 Scoring: Keep track of your score as the snake grows longer with each food item eaten.
